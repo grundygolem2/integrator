@@ -1,2 +1,4 @@
 rootProject.name = 'integrator'
+include 'generation'
+include 'common'
 
