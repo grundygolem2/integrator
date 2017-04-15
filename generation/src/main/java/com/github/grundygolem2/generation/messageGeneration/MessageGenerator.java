@@ -6,5 +6,5 @@ import java.util.Map;
  * Created by john on 4/14/17.
  */
 public interface MessageGenerator {
-    public String getMessage(Map<String,String> replacementParameters);
+    String getMessage(final Map<String, String> replacementParameters);
 }
