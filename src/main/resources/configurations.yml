@@ -1,0 +1,4 @@
+generation:
+  templateToReplacement: /templateToReplacement.csv
+  replacementMaps: /replacementMaps/
+  templates: /templates/

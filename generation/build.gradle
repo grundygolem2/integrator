@@ -1,8 +1,7 @@
-evaluationDependsOn(':common')
-
 dependencies {
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.9.0.pr2'
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.0.pr2'
     compile project(':common')
+    compile rootProject
 }
 

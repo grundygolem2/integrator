@@ -1,4 +1,4 @@
-package com.github.grundygolem2.generation.fieldGeneration;
+package com.github.grundygolem2.integrator.generation.fieldGeneration;
 
 
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package com.github.grundygolem2.generation.messageGeneration;
+package com.github.grundygolem2.integrator.generation.messageGeneration;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package com.github.grundygolem2.utilities;
+package com.github.grundygolem2.integrator.utilities;
 
 import com.google.common.base.Charsets;
 import com.google.common.base.Splitter;

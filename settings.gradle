@@ -1,4 +1,5 @@
 rootProject.name = 'integrator'
 include 'generation'
 include 'common'
+include 'publishing'
 
